@@ -1,3 +1,9 @@
+# 설명  
+Go 언어를 공부하며 알게 된 내용들을 정리하는 저장소입니다.  
+
+<br><br>  
+
+
 # The Ultimate Go Study Guide
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/hoanhan101/ultimate-go)
